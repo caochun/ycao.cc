@@ -1,11 +1,11 @@
 baseurl = "https://ycao.cc/"
-title = "Nemo's Site"
+title = "Nemo's Home"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
-# googleAnalytics = "{your tracking code}"
+googleAnalytics = "UA-139159858-1"
 
 [taxonomies]
   series = "series"

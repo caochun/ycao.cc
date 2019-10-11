@@ -32,11 +32,11 @@ googleAnalytics = "UA-139159858-1"
     url = "/blog/"
     weight = 10
 
-#[[menu.main]]
-#    name = "Twitter"
-#    pre = "<i class='fab fa-twitter fa-lg'></i>"
-#    url = "https://twitter.com/__yicao__"
-#    weight = 20
+[[menu.main]]
+    name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/__yicao__"
+    weight = 20
 
 [[menu.main]]
     name = "GitHub"

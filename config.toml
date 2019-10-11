@@ -35,7 +35,7 @@ googleAnalytics = "UA-139159858-1"
 #[[menu.main]]
 #    name = "Twitter"
 #    pre = "<i class='fab fa-twitter fa-lg'></i>"
-#    url = "https://twitter.com/username"
+#    url = "https://twitter.com/__yicao__"
 #    weight = 20
 
 [[menu.main]]
@@ -47,5 +47,5 @@ googleAnalytics = "UA-139159858-1"
 [[menu.main]]
     name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:caoyi06@qq.com"
     weight = 40

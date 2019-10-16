@@ -1,5 +1,5 @@
 baseurl = "https://ycao.cc/"
-title = "Nemo's Home"
+title = "Yi's Home"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
@@ -15,7 +15,7 @@ googleAnalytics = "UA-139159858-1"
     avatar = "avatar.jpg"
     favicon = "favicon.ico"
     description = """
-        Yi's xkcd-like comics and blogs.
+        Yi's xkcd-like comics.
     """
     publicationYear = "2019"
     listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/

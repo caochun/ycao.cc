@@ -16,7 +16,7 @@ SYNOPSIS
     never_mind [ -s context ] [ -I ] [ -ML (model) ] [ -MLS path ]
 
 DESCRIPTION
-    NEVER_MIND is a great phrase which can work at any time.
+    "NEVER MIND" is a great phrase which can work at any time.
 
 OPTIONS
     -s context

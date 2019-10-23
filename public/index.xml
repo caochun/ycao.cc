@@ -1,14 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nemo&#39;s Home</title>
+    <title>Yi&#39;s Home</title>
     <link>https://ycao.cc/</link>
-    <description>Recent content on Nemo&#39;s Home</description>
+    <description>Recent content on Yi&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Oct 2019 23:30:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 20:29:55 +0800</lastBuildDate>
     
 	<atom:link href="https://ycao.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DO AS I SAY</title>
+      <link>https://ycao.cc/blog/do-as-i-say/</link>
+      <pubDate>Wed, 23 Oct 2019 20:29:55 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/do-as-i-say/</guid>
+      <description>DO AS I SAY Well, the format request for Maths really annoys me a lot.</description>
+    </item>
+    
+    <item>
+      <title>MESSAGES</title>
+      <link>https://ycao.cc/blog/messages/</link>
+      <pubDate>Wed, 23 Oct 2019 18:13:12 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/messages/</guid>
+      <description>MESSAGES Our sports committee is annoyed by this recently, so I drew this.</description>
+    </item>
+    
+    <item>
+      <title>NUMPY</title>
+      <link>https://ycao.cc/blog/numpy/</link>
+      <pubDate>Wed, 23 Oct 2019 18:11:16 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/numpy/</guid>
+      <description> NUMPY </description>
+    </item>
+    
+    <item>
+      <title>NEVER MIND</title>
+      <link>https://ycao.cc/blog/never-mind/</link>
+      <pubDate>Tue, 22 Oct 2019 21:40:25 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/never-mind/</guid>
+      <description>NEVER MIND NEVER_MIND(1) NAME never_mind - You can use it at any time. SYNOPSIS never_mind [ -s context ] [ -I ] [ -ML (model) ] [ -MLS path ] DESCRIPTION &amp;quot;NEVER MIND&amp;quot; is a great phrase which can work at any time. OPTIONS -s context Output a sentence with &amp;quot;never mind&amp;quot; for the input context. -I Search online and try to find a better one. -ML (model) Use our ML model on GitHub to learn how to use &amp;quot;never mind&amp;quot; as a excuse.</description>
+    </item>
+    
+    <item>
+      <title>SORRY</title>
+      <link>https://ycao.cc/blog/sorry/</link>
+      <pubDate>Tue, 22 Oct 2019 20:09:20 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/sorry/</guid>
+      <description>SORRY Not in a comic mood. Sorry for my bad drawing! Things usually happen on a metro.</description>
+    </item>
+    
+    <item>
+      <title>TIRED</title>
+      <link>https://ycao.cc/blog/tired/</link>
+      <pubDate>Sun, 20 Oct 2019 21:54:42 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/tired/</guid>
+      <description> TIRED </description>
+    </item>
+    
+    <item>
+      <title>WIERD QUESTION #2</title>
+      <link>https://ycao.cc/blog/wierd-question-2/</link>
+      <pubDate>Sun, 20 Oct 2019 21:51:45 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/wierd-question-2/</guid>
+      <description>WEIRD QUESTION #2 Write an article about I Wanna Take Your Hand. What I first thought of&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MLE</title>
+      <link>https://ycao.cc/blog/mle/</link>
+      <pubDate>Sun, 20 Oct 2019 21:46:27 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/mle/</guid>
+      <description>MLE People get mad while their brain &amp;quot;MLE&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>MATH OLYMPIC</title>
+      <link>https://ycao.cc/blog/math-olympic/</link>
+      <pubDate>Sun, 20 Oct 2019 21:39:54 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/math-olympic/</guid>
+      <description>MATH OLYMPIC You know it gets hard sometimes.</description>
+    </item>
+    
+    <item>
+      <title>BELIEVER</title>
+      <link>https://ycao.cc/blog/believer/</link>
+      <pubDate>Sun, 20 Oct 2019 21:34:36 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/believer/</guid>
+      <description>BELIEVER How to annoying someone.</description>
+    </item>
+    
+    <item>
+      <title>FTP FUN</title>
+      <link>https://ycao.cc/blog/ftp-fun/</link>
+      <pubDate>Sat, 19 Oct 2019 12:10:08 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/ftp-fun/</guid>
+      <description>FTP FUN I was almost killed by my teacher because of this&amp;hellip; Python is great!</description>
+    </item>
+    
+    <item>
+      <title>DIFFERENCE</title>
+      <link>https://ycao.cc/blog/difference/</link>
+      <pubDate>Sat, 19 Oct 2019 12:07:15 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/difference/</guid>
+      <description> DIFFERENCE I mean &amp;ldquo;In most of the cases&amp;rdquo;. </description>
+    </item>
+    
+    <item>
+      <title>ORACLE LIKE</title>
+      <link>https://ycao.cc/blog/oracle-like/</link>
+      <pubDate>Wed, 16 Oct 2019 22:20:06 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/oracle-like/</guid>
+      <description>ORACLE LIKE My code is a little bit more like what Oracle staff write this time. Flag variables are appearing while debuging. This is a part of a calculator.</description>
+    </item>
+    
+    <item>
+      <title>COPIED</title>
+      <link>https://ycao.cc/blog/copied/</link>
+      <pubDate>Wed, 16 Oct 2019 19:08:50 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/copied/</guid>
+      <description>COPIED How I comment other people&amp;rsquo;s talk.</description>
+    </item>
+    
+    <item>
+      <title>STACK OF LIBS AND FRAMEWORKS</title>
+      <link>https://ycao.cc/blog/stack-of-libs-and-frameworks/</link>
+      <pubDate>Wed, 16 Oct 2019 19:07:54 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/stack-of-libs-and-frameworks/</guid>
+      <description>STACK OF LIBS AND FRAMEWORKS Computer systems are more and more complex now.</description>
+    </item>
+    
+    <item>
+      <title>ONE RIGHT THING</title>
+      <link>https://ycao.cc/blog/one-right-thing/</link>
+      <pubDate>Wed, 16 Oct 2019 19:06:56 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/one-right-thing/</guid>
+      <description> ONE RIGHT THING </description>
+    </item>
+    
+    <item>
+      <title>WIERD QUESTION #1</title>
+      <link>https://ycao.cc/blog/wierd-question-1/</link>
+      <pubDate>Wed, 16 Oct 2019 19:01:33 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/wierd-question-1/</guid>
+      <description> WIERD QUESION #1 The &amp;ldquo;WIERD QUESTION&amp;rdquo; is a serise of comics of wierd and stuipd quesions I met. </description>
+    </item>
+    
+    <item>
+      <title>THE BUCKET</title>
+      <link>https://ycao.cc/blog/the-bucket/</link>
+      <pubDate>Wed, 16 Oct 2019 18:59:21 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/the-bucket/</guid>
+      <description>THE BUCKET Well, calculate can proof anything.</description>
+    </item>
+    
+    <item>
+      <title>STL</title>
+      <link>https://ycao.cc/blog/stl/</link>
+      <pubDate>Wed, 16 Oct 2019 18:57:33 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/stl/</guid>
+      <description>STL [Reply]Really?</description>
+    </item>
+    
+    <item>
+      <title>WHICH TO BUY</title>
+      <link>https://ycao.cc/blog/which-to-buy/</link>
+      <pubDate>Tue, 15 Oct 2019 18:40:01 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/which-to-buy/</guid>
+      <description> WHICH TO BUY What I did when I go home with my classmate together. </description>
+    </item>
     
     <item>
       <title>COMMIT MSG</title>
@@ -97,7 +277,7 @@
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ycao.cc/blog/films/</guid>
-      <description>#FILMS </description>
+      <description> FILMS </description>
     </item>
     
   </channel>

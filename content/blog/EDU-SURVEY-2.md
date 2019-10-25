@@ -5,5 +5,5 @@ draft: false
 ---
 
 # EDU SURVEY #2
-Based on [EDU SURVEY](/blog/edu-survey)
+Based on [EDU SURVEY](/blog/edu-survey)。
 ![](http://cdn.nemoworks.info/ycao.cc/images/EDU-SURVEY-2.jpg)

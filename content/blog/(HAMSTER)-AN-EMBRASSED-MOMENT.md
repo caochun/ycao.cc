@@ -5,7 +5,7 @@ draft: false
 ---
 
 # BEFORE YOU READ
-Comics with prefix `(HAMSTER)` is drawn by my friend Hamster, also known as Chengyu.
+Comics with prefix `(HAMSTER)` are drawn by my friend Hamster, also known as Chengyu.
 
 These ugly contents have no connections with me!
 # AN EMBRASSED MOMENT

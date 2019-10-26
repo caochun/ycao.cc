@@ -5,10 +5,19 @@
     <link>https://ycao.cc/</link>
     <description>Recent content on Yi&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 26 Oct 2019 12:09:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 22:57:50 +0800</lastBuildDate>
     
 	<atom:link href="https://ycao.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EDU SURVEY #3</title>
+      <link>https://ycao.cc/blog/edu-survey-3/</link>
+      <pubDate>Sat, 26 Oct 2019 22:57:50 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/edu-survey-3/</guid>
+      <description> EDU SURVEY #3 Based on EDU SURVEY #1 and #2 </description>
+    </item>
     
     <item>
       <title>HOW TO UNDERSTAND DP</title>
@@ -45,16 +54,16 @@ AN EMBRASSED MOMENT I hate my nickname!</description>
       <pubDate>Fri, 25 Oct 2019 22:06:02 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/edu-survey-2/</guid>
-      <description> EDU SURVEY #2 Based on EDU SURVEY。 </description>
+      <description> EDU SURVEY #2 Based on EDU SURVEY #1。 </description>
     </item>
     
     <item>
-      <title>EDU SURVEY</title>
-      <link>https://ycao.cc/blog/edu-survey/</link>
+      <title>EDU SURVEY #1</title>
+      <link>https://ycao.cc/blog/edu-survey-1/</link>
       <pubDate>Thu, 24 Oct 2019 21:40:53 +0800</pubDate>
       
-      <guid>https://ycao.cc/blog/edu-survey/</guid>
-      <description> EDU SURVEY Well&amp;hellip; </description>
+      <guid>https://ycao.cc/blog/edu-survey-1/</guid>
+      <description> EDU SURVEY #1 Well&amp;hellip; </description>
     </item>
     
     <item>

@@ -6,4 +6,5 @@ draft: false
 
 # COPIED
 ![](http://cdn.nemoworks.info/ycao.cc/images/COPIED.jpg)
+
 How I comment other people's talk.

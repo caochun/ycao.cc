@@ -6,4 +6,5 @@ draft: false
 
 # COMMIT MSG
 ![](http://cdn.nemoworks.info/ycao.cc/images/COMMIT-MSG.jpg)
+
 I always want to type such things.

@@ -6,4 +6,5 @@ draft: false
 
 # BAD CODE
 This is what I always think when I failed in a contest.
+
 ![](http://cdn.nemoworks.info/ycao.cc/images/BAD-CODE.jpg)

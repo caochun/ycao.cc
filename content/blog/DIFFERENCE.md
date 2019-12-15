@@ -6,4 +6,5 @@ draft: false
 
 # DIFFERENCE
 I mean "In most of the cases".
+
 ![](http://cdn.nemoworks.info/ycao.cc/images/DIFFERENCE.jpg)

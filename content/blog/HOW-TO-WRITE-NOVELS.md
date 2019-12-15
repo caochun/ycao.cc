@@ -6,4 +6,5 @@ draft: false
 
 # HOW TO WRITE NOVELS
 When my deskmate asked me how to write novels, I drawed her this:
+
 ![](http://cdn.nemoworks.info/HOW-TO-WRITE-NOVELS.jpg)

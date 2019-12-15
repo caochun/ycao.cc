@@ -1,19 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://ycao.cc/blog/</loc>
-    <lastmod>2019-10-26T22:57:50+08:00</lastmod>
+    <lastmod>2019-12-15T23:27:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ycao.cc/blog/edu-survey-3/</loc>
-    <lastmod>2019-10-26T22:57:50+08:00</lastmod>
+    <loc>https://ycao.cc/blog/gan-genetated/</loc>
+    <lastmod>2019-12-15T23:27:24+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ycao.cc/</loc>
+    <lastmod>2019-12-15T23:27:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/social-media/</loc>
+    <lastmod>2019-12-11T18:19:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/catch-on-fire/</loc>
+    <lastmod>2019-11-13T18:56:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/childhood/</loc>
+    <lastmod>2019-11-11T21:59:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/git-server/</loc>
+    <lastmod>2019-11-04T18:22:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/terminator/</loc>
+    <lastmod>2019-11-03T10:28:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/16-and-pregnant/</loc>
+    <lastmod>2019-11-01T22:12:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/real-life/</loc>
+    <lastmod>2019-10-31T20:52:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/edu-survey-4/</loc>
+    <lastmod>2019-10-31T20:48:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/mid-term-test/</loc>
+    <lastmod>2019-10-30T16:27:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/pens/</loc>
+    <lastmod>2019-10-30T16:25:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/nightmare/</loc>
+    <lastmod>2019-10-29T06:34:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/success/</loc>
+    <lastmod>2019-10-28T18:52:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/papers/</loc>
+    <lastmod>2019-10-27T19:30:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ycao.cc/blog/edu-survey-3/</loc>
     <lastmod>2019-10-26T22:57:50+08:00</lastmod>
   </url>
   

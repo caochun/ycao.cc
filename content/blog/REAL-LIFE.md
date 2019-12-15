@@ -6,4 +6,5 @@ draft: false
 
 # REAL LIFE
 ![](http://cdn.nemoworks.info/ycao.cc/images/REAL-LIFE.jpg)
+
 Trust me, 90% English articles are fake.

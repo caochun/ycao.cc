@@ -6,4 +6,5 @@ draft: false
 
 # WIERD QUESION #1
 The "WIERD QUESTION" is a serise of comics of wierd and stuipd quesions I met.
+
 ![](http://cdn.nemoworks.info/ycao.cc/images/WIERD-Q-%231.jpg)

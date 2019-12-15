@@ -6,5 +6,7 @@ draft: false
 
 # SORRY
 Not in a comic mood. Sorry for my bad drawing!
+
 ![](http://cdn.nemoworks.info/ycao.cc/images/SORRY.jpg)
+
 Things usually happen on a metro.

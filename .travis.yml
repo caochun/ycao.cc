@@ -5,7 +5,7 @@ language: go
 git:
   depth: 1
 
-install: 
+before_git: 
   - git clone https://github.com/udhos/update-golang --depth=1
   - cd update-golang
   - sudo ./update-golang.sh

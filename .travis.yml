@@ -6,6 +6,9 @@ git:
   depth: 1
 
 install: 
+  - git clone https://github.com/udhos/update-golang --depth=1
+  - cd update-golang
+  - sudo ./update-golang.sh
   - mkdir $HOME/src
   - cd $HOME/src
   - git clone https://github.com/gohugoio/hugo.git --depth=1

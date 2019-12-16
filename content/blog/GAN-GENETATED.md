@@ -1,5 +1,5 @@
 ---
-title: "GAN GENETATED"
+title: "GAN-GENETATED"
 date: 2019-12-15T23:27:24+08:00
 draft: false
 ---

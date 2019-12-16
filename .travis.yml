@@ -1,18 +1,16 @@
 sudo: false
 
+language: go
+
+go:
+  - "1.12"
+
 git:
   depth: 1
 
-before_install: 
-  # Install Go 1.12
-  # I hate it.
-  - curl https://dl.google.com/go/go1.12.14.linux-amd64.tar.gz -o GO_BIN.tar.gz
-  - sudo tar -C /usr/local -xzf GO_BIN.tar.gz
-  - /usr/local/go/bin/go version
-
 install:
   # Install Hugo
-  - /usr/local/go/bin/go get github.com/gohugoio/hugo
+  - go get github.com/gohugoio/hugo
 
 script:
   - git submodule init

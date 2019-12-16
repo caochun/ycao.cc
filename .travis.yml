@@ -11,6 +11,7 @@ before_install:
   - sudo rm -rf /usr/local/go
   - curl https://dl.google.com/go/go1.12.14.linux-amd64.tar.gz -o GO_BIN.tar.gz
   - sudo tar -C /usr/local -xzf GO_BIN.tar.gz
+  - go version
 
 install:
   # Install Hugo

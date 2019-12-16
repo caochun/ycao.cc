@@ -6,7 +6,12 @@ git:
   depth: 1
 
 install: 
-  - go get github.com/gohugoio/hugo
+  - mkdir $HOME/src
+  - cd $HOME/src
+  - git clone https://github.com/gohugoio/hugo.git --depth=1
+  - cd hugo
+  - go install
+  - cd
 
 script:
   - git submodule init

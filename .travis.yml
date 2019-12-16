@@ -5,16 +5,16 @@ language: go
 git:
   depth: 1
 
-before_git: 
-  - git clone https://github.com/udhos/update-golang --depth=1
-  - cd update-golang
-  - sudo ./update-golang.sh
-  - mkdir $HOME/src
-  - cd $HOME/src
-  - git clone https://github.com/gohugoio/hugo.git --depth=1
-  - cd hugo
-  - go install
-  - cd
+before_install: 
+  # Install Go 1.12
+  # I hate it.
+  - sudo rm -rf /usr/local/go
+  - curl https://dl.google.com/go/go1.12.14.linux-amd64.tar.gz -o GO_BIN.tar.gz
+  - sudo tar -C /usr/local -xzf GO_BIN.tar.gz
+
+install:
+  # Install Hugo
+  - go get github.com/gohugoio/hugo
 
 script:
   - git submodule init

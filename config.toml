@@ -17,7 +17,7 @@ googleAnalytics = "UA-150735695-1"
     description = """
         Yi's xkcd-like comics. Click the book icon to see them.
     """
-    publicationYear = "2019"
+    publicationYear = "2020"
     listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]

@@ -10,7 +10,7 @@ git:
 
 install:
   # Install Hugo
-  - go get github.com/gohugoio/hugo@stable
+  - go get github.com/gohugoio/hugo@0.73.0
 
 script:
   - git submodule init

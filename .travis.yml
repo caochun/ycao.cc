@@ -11,6 +11,8 @@ git:
 before_install:
   # Homebrew
   - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  - echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> /home/travis/.bash_profile
+  - eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
 install:
   # Install Hugo

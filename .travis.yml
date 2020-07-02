@@ -8,9 +8,13 @@ go:
 git:
   depth: 1
 
+before_install:
+  # Homebrew
+  - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
 install:
   # Install Hugo
-  - go get github.com/gohugoio/hugo@0.73.0
+  - brew install hugo
 
 script:
   - git submodule init

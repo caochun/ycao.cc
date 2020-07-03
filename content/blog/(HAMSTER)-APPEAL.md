@@ -9,7 +9,7 @@ This is a post tagged with `HAMSTER`, but it's acturally written by me.
 
 To put it briefly, Hamster got a punishment by dismissal only because he tied his shoes in the English lesson. I don't think this is fair for him.
 
-# CONTENT - Lodge an appeal for Hamster, even though no one will be influenced.
+# CONTENT - Lodge an appeal for Hamster, even though no one will listen to it.
 
 _NOTE: `大仓` stands for `Hamster`. This is written in Chinese._
 

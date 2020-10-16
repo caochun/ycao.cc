@@ -12,7 +12,7 @@ addons:
   apt:
     update: true
     packages:
-      - hugo
+    - hugo
 
 script:
   - git submodule init

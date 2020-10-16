@@ -5,13 +5,55 @@
     <link>https://ycao.cc/</link>
     <description>Recent content on Yi&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Dec 2019 23:27:24 +0800</lastBuildDate>
-    
-	<atom:link href="https://ycao.cc/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 16 Oct 2020 18:58:38 +0800</lastBuildDate><atom:link href="https://ycao.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NEW POLICY</title>
+      <link>https://ycao.cc/blog/new-policy/</link>
+      <pubDate>Fri, 16 Oct 2020 18:58:38 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/new-policy/</guid>
+      <description>NEW POLICY  It&amp;rsquo;s been a long time&amp;hellip;
+ IMPRESSIVE.</description>
+    </item>
     
     <item>
-      <title>GAN GENETATED</title>
+      <title>(HAMSTER) APPEAL</title>
+      <link>https://ycao.cc/blog/hamster-appeal/</link>
+      <pubDate>Fri, 03 Jul 2020 21:00:58 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/hamster-appeal/</guid>
+      <description>NOTICE This is a post tagged with HAMSTER, but it&amp;rsquo;s acturally written by me. To put it briefly, Hamster got a punishment by dismissal only because he tied his shoes in the English lesson. I don&amp;rsquo;t think this is fair for him. CONTENT - Lodge an appeal for Hamster, even though no one will listen to it. NOTE: 大仓 stands for Hamster. This is written in Chinese. 定义</description>
+    </item>
+    
+    <item>
+      <title>HAVING FUN</title>
+      <link>https://ycao.cc/blog/having-fun/</link>
+      <pubDate>Thu, 02 Jul 2020 19:20:50 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/having-fun/</guid>
+      <description>HAVING FUN How do I have fun.</description>
+    </item>
+    
+    <item>
+      <title>ASYNC</title>
+      <link>https://ycao.cc/blog/async/</link>
+      <pubDate>Sat, 16 May 2020 17:58:46 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/async/</guid>
+      <description>ASYNCHRONOUS </description>
+    </item>
+    
+    <item>
+      <title>ASK MORE</title>
+      <link>https://ycao.cc/blog/ask-more/</link>
+      <pubDate>Mon, 16 Dec 2019 21:39:45 +0800</pubDate>
+      
+      <guid>https://ycao.cc/blog/ask-more/</guid>
+      <description>ASK MORE &amp;ldquo;Ask more.&amp;rdquo; should tagged with Use with caution.</description>
+    </item>
+    
+    <item>
+      <title>GAN-GENETATED</title>
       <link>https://ycao.cc/blog/gan-genetated/</link>
       <pubDate>Sun, 15 Dec 2019 23:27:24 +0800</pubDate>
       
@@ -99,7 +141,7 @@ Hey! This seems to be the end of the world!</description>
       <pubDate>Wed, 30 Oct 2019 16:27:17 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/mid-term-test/</guid>
-      <description> MID TERM TEST </description>
+      <description>MID TERM TEST </description>
     </item>
     
     <item>
@@ -127,7 +169,7 @@ Wait, what is that algorithm? That one from the dream can solve this!</descripti
       <pubDate>Mon, 28 Oct 2019 18:52:22 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/success/</guid>
-      <description> SUCCESS </description>
+      <description>SUCCESS </description>
     </item>
     
     <item>
@@ -154,7 +196,7 @@ Wait, what is that algorithm? That one from the dream can solve this!</descripti
       <pubDate>Sat, 26 Oct 2019 12:09:23 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/how-to-understand-dp/</guid>
-      <description> HOW TO UNDERSTAND DP </description>
+      <description>HOW TO UNDERSTAND DP </description>
     </item>
     
     <item>
@@ -183,7 +225,7 @@ AN EMBRASSED MOMENT I hate my nickname!</description>
       <pubDate>Fri, 25 Oct 2019 22:06:02 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/edu-survey-2/</guid>
-      <description> EDU SURVEY #2 Based on EDU SURVEY #1. </description>
+      <description>EDU SURVEY #2 Based on EDU SURVEY #1. </description>
     </item>
     
     <item>
@@ -219,7 +261,7 @@ AN EMBRASSED MOMENT I hate my nickname!</description>
       <pubDate>Wed, 23 Oct 2019 18:11:16 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/numpy/</guid>
-      <description> NUMPY </description>
+      <description>NUMPY </description>
     </item>
     
     <item>
@@ -247,7 +289,7 @@ Things usually happen on a metro.</description>
       <pubDate>Sun, 20 Oct 2019 21:54:42 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/tired/</guid>
-      <description> TIRED </description>
+      <description>TIRED </description>
     </item>
     
     <item>
@@ -340,7 +382,7 @@ This is a part of a calculator.</description>
       <pubDate>Wed, 16 Oct 2019 19:06:56 +0800</pubDate>
       
       <guid>https://ycao.cc/blog/one-right-thing/</guid>
-      <description> ONE RIGHT THING </description>
+      <description>ONE RIGHT THING </description>
     </item>
     
     <item>
@@ -468,7 +510,7 @@ I mean &amp;ldquo;in some ways&amp;rdquo;!</description>
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ycao.cc/blog/films/</guid>
-      <description> FILMS </description>
+      <description>FILMS </description>
     </item>
     
   </channel>
